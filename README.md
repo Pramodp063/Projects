@@ -4,3 +4,6 @@ Manual and Automation Selenium Project
 2.FaceBook Login and Logout
 3.Ebay Products and screenshot
 4.CS-CART.com
+
+#PPT:
+Manual and Automation
